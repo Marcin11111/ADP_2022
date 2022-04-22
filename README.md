@@ -19,6 +19,8 @@ Update the table (today you need to fill at least first two columns)
 | Kochańska Zofia | [zofia-kochanska](https://github.com/zofiakk) | [SNP](https://github.com/zofiakk/SNP) | Julia Smolik, Jakub Białecki |
 | Smolik Julia | [julia-smolik](https://github.com/juliasmolik) | [SNP](https://github.com/zofiakk/SNP) | Zofia Kochańska, Jakub Białecki |
 | Białecki Jakub | [jakub-bialecki](https://github.com/Kubinho1) | [SNP](https://github.com/zofiakk/SNP) | Julia Smolik, Zofia Kochańska |
+| Marcin Klimko | [Marcin11111](https://github.com/Marcin11111) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Elżbieta Karpińska |
+| Elżbieta Karpińska | [ekarpinska](https://github.com/ekarpinska) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Marcin Klimko |
 
  
 ### Task 2
